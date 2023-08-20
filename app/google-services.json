@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076253254177",
+    "project_id": "facicalemotiondetection-app",
+    "storage_bucket": "facicalemotiondetection-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076253254177:android:48341f3d88ff609eb83960",
+        "android_client_info": {
+          "package_name": "com.example.facicalemotiondetection_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076253254177-b5pl60gjsie5uahfn49ai2n7n0sibgn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOjTDNPiHDwY3_4FUx4uu50J8xTSupZxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076253254177-b5pl60gjsie5uahfn49ai2n7n0sibgn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
